@@ -5736,22 +5736,22 @@
     "title": "f-teashop",
     "items": [
       {
-        "id": 1790147413900,
-        "title": "Login - postgres - Adminer",
+        "id": 1790764110367,
+        "title": "localhost",
         "url": "http://localhost:8088/?pgsql=postgres&username=postgres&db=teashop&ns=public"
       },
       {
-        "id": 1790147413717,
-        "title": "localhost:5000",
+        "id": 1790764110099,
+        "title": "localhost",
         "url": "http://localhost:5000/"
       },
       {
-        "id": 1790147413840,
-        "title": "NgTeashop",
+        "id": 1790764109695,
+        "title": "localhost",
         "url": "http://localhost:4200/"
       }
     ],
-    "updated_at": 1790747889164
+    "updated_at": 1790764109441
   },
   {
     "id": 1789449575275,
