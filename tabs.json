@@ -1870,17 +1870,17 @@
     "title": "f-eccomachine",
     "items": [
       {
-        "id": 1729608426296,
+        "id": 1790841289003,
         "title": "Bacheca ‹ ecomacchine — WordPress",
-        "url": "http://lc-eccomachine.local/wp-admin/#"
+        "url": "http://lc-ecomachine.local/wp-admin/"
       },
       {
-        "id": 1729608426749,
+        "id": 1790841289004,
         "title": "Ecomacchine | Macchinari per il trattamento delle acque e dei fanghi",
-        "url": "http://lc-eccomachine.local/"
+        "url": "http://lc-ecomachine.local/"
       }
     ],
-    "updated_at": 1741948060560
+    "updated_at": 1790841289003
   },
   {
     "id": 1729665297787,
@@ -5495,7 +5495,7 @@
         "url": "http://lc-algor-eletronica.local/en/servizi/sicurezza-e-controllo/"
       }
     ],
-    "updated_at": 1790764071995
+    "updated_at": 1790838204064
   },
   {
     "id": 1786097942681,
@@ -5737,21 +5737,21 @@
     "items": [
       {
         "id": 1790764163668,
-        "title": "localhost",
+        "title": "Login - postgres - Adminer",
         "url": "http://localhost:8088/?pgsql=postgres&username=postgres&db=teashop&ns=public"
       },
       {
-        "id": 1790764163587,
-        "title": "localhost",
-        "url": "http://localhost:5000/"
+        "id": 1790834681872,
+        "title": "Swagger UI",
+        "url": "http://localhost:5000/api/docs#/"
       },
       {
         "id": 1790764163963,
-        "title": "localhost",
+        "title": "NgTeashop",
         "url": "http://localhost:4200/"
       }
     ],
-    "updated_at": 1790764380800
+    "updated_at": 1790834681872
   },
   {
     "id": 1789449575275,
