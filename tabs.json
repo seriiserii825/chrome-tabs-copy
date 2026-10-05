@@ -2213,7 +2213,7 @@
         "url": "https://menu.altuofianco.com/struttura"
       }
     ],
-    "updated_at": 1747987390061
+    "updated_at": 1791213793128
   },
   {
     "id": 1734427609653,
@@ -5344,7 +5344,7 @@
         "url": "http://lc-hydra-valves.local/"
       }
     ],
-    "updated_at": 1790062321620
+    "updated_at": 1791203763201
   },
   {
     "id": 1785765459411,
@@ -5495,7 +5495,7 @@
         "url": "http://lc-algor-eletronica.local/en/servizi/sicurezza-e-controllo/"
       }
     ],
-    "updated_at": 1790838204064
+    "updated_at": 1790925196175
   },
   {
     "id": 1786097942681,
@@ -5517,7 +5517,7 @@
         "url": "https://www.figma.com/design/HNWlthWYiGcjroppfWRKdL/Algor-Elettronica--Copy-?node-id=445-2&p=f&m=dev"
       }
     ],
-    "updated_at": 1790757818225
+    "updated_at": 1791204323763
   },
   {
     "id": 1787904027533,
@@ -5561,7 +5561,7 @@
         "url": "https://www.figma.com/design/5tn8ICNyxKsyr3MukYct6i/MANITOBA--Copy-?node-id=0-1&p=f&m=dev"
       }
     ],
-    "updated_at": 1790332992043
+    "updated_at": 1791206173895
   },
   {
     "id": 1787929286660,
@@ -5578,7 +5578,7 @@
         "url": "http://lc-manitoba.local/"
       }
     ],
-    "updated_at": 1790333505087
+    "updated_at": 1791211456525
   },
   {
     "id": 1788254231076,
@@ -5751,7 +5751,7 @@
         "url": "http://localhost:4200/"
       }
     ],
-    "updated_at": 1790834681872
+    "updated_at": 1791205450764
   },
   {
     "id": 1789449575275,
@@ -5803,5 +5803,17 @@
       }
     ],
     "updated_at": 1790077987524
+  },
+  {
+    "id": 1791213820530,
+    "title": "b-digital-altuofianco",
+    "items": [
+      {
+        "id": 1791213820767,
+        "title": "Digital Projects",
+        "url": "https://digital.altuofianco.com/login"
+      }
+    ],
+    "updated_at": 1791213831333
   }
 ]
