@@ -4233,7 +4233,7 @@
         "url": "http://lc-caire-pro.local/"
       }
     ],
-    "updated_at": 1790682452764
+    "updated_at": 1791903144590
   },
   {
     "id": 1766402007656,
@@ -5712,7 +5712,7 @@
         "url": "https://www.consorziostorm.it/evento/fast-start-gennaio-2026/"
       }
     ],
-    "updated_at": 1789469826663
+    "updated_at": 1791892619803
   },
   {
     "id": 1788853117429,
@@ -5729,7 +5729,7 @@
         "url": "http://lc-storm.local/"
       }
     ],
-    "updated_at": 1791534684953
+    "updated_at": 1791892856118
   },
   {
     "id": 1788949043760,
@@ -5860,22 +5860,22 @@
     "title": "b-marrelli-administrazioni",
     "items": [
       {
-        "id": 1791873917099,
-        "title": "Figma link here | Marelli Assicurazioni - ProTask",
-        "url": "https://worktask.bludelego.it/p/board/marelli-assicurazioni?task=figma-link-here-copy-6ab4d492db147"
+        "id": 1792048050790,
+        "title": "Board | Marelli Assicurazioni - ProTask",
+        "url": "https://worktask.bludelego.it/p/board/marelli-assicurazioni"
       },
       {
-        "id": 1791873917100,
+        "id": 1792048050791,
         "title": "Marelli Assicurazioni – Figma",
-        "url": "https://www.figma.com/design/YJjPwi7CmVjPMUSiiREu6b/Marelli-Assicurazioni?node-id=0-1&p=f&t=LSoLHZJRPcmskPtE-0"
+        "url": "https://www.figma.com/design/YJjPwi7CmVjPMUSiiREu6b/Marelli-Assicurazioni?node-id=265-348&t=JC6V9scnt8y2B6N7-0"
       },
       {
-        "id": 1791873917101,
+        "id": 1792048050792,
         "title": "Marelli Assicurazioni (Copy) – Figma",
-        "url": "https://www.figma.com/design/4Sfy4keTR6HI1jfiljofRW/Marelli-Assicurazioni--Copy-?node-id=0-1&p=f&m=dev"
+        "url": "https://www.figma.com/design/SSPunlUmbjhxmRE8ScLcLb/Marelli-Assicurazioni--Copy-?node-id=0-1&p=f&m=dev"
       }
     ],
-    "updated_at": 1791873917099
+    "updated_at": 1792048050790
   },
   {
     "id": 1791799189239,
@@ -5892,6 +5892,6 @@
         "url": "http://lc-marelli-assigurazioni.local/"
       }
     ],
-    "updated_at": 1791799189239
+    "updated_at": 1792043345462
   }
 ]
