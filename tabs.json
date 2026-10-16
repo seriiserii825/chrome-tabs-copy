@@ -448,7 +448,7 @@
         "url": "https://pixso.net/app/editor/eMLYC5bzPFy0bOP2J1wtJw?icon_type=1&page-id=0%3A1&editMode=coder"
       }
     ],
-    "updated_at": 1783432431271
+    "updated_at": 1792135616770
   },
   {
     "id": 1706091686513,
@@ -465,7 +465,7 @@
         "url": "http://lc-euroinn.local/"
       }
     ],
-    "updated_at": 1707396957480
+    "updated_at": 1792135567879
   },
   {
     "id": 1706526904944,
@@ -5875,7 +5875,7 @@
         "url": "https://www.figma.com/design/SSPunlUmbjhxmRE8ScLcLb/Marelli-Assicurazioni--Copy-?node-id=0-1&p=f&m=dev"
       }
     ],
-    "updated_at": 1792048050790
+    "updated_at": 1792133765230
   },
   {
     "id": 1791799189239,
@@ -5892,6 +5892,45 @@
         "url": "http://lc-marelli-assigurazioni.local/"
       }
     ],
-    "updated_at": 1792043345462
+    "updated_at": 1792143943660
+  },
+  {
+    "id": 1792148297340,
+    "title": "b-lorenzo-valgimigli",
+    "items": [
+      {
+        "id": 1792148297573,
+        "title": "Figma link here | Lorenzo Valgimigli - ProTask",
+        "url": "https://worktask.bludelego.it/p/board/lorenzo-valgimigli?task=figma-link-here-copy-68baef71189c3-copy-68cc0754e97a9-copy-6a58b7316cf04"
+      },
+      {
+        "id": 1792148297931,
+        "title": "Lorenzo Valgimigli – Figma",
+        "url": "https://www.figma.com/design/RjvQ8s2AFangPF1aSVuhET/Lorenzo-Valgimigli?node-id=0-1&p=f&t=cUelfmIPvMBBktzo-0"
+      },
+      {
+        "id": 1792148297371,
+        "title": "Lorenzo Valgimigli (Copy) – Figma",
+        "url": "https://www.figma.com/design/8yvZdhT4gdW8MGEllNZjK1/Lorenzo-Valgimigli--Copy-?node-id=0-1&p=f&m=dev"
+      }
+    ],
+    "updated_at": 1792148297340
+  },
+  {
+    "id": 1792152152148,
+    "title": "f-lorenzo-valgimigli",
+    "items": [
+      {
+        "id": 1792152152823,
+        "title": "Dashboard ‹ lc-lorenzo-valgimigli — WordPress",
+        "url": "http://lc-lorenzo-valgimigli.local/wp-admin/#"
+      },
+      {
+        "id": 1792152153116,
+        "title": "lc-lorenzo-valgimigli",
+        "url": "http://lc-lorenzo-valgimigli.local/"
+      }
+    ],
+    "updated_at": 1792152152148
   }
 ]
