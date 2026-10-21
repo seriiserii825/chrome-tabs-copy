@@ -4442,7 +4442,7 @@
         "url": "http://lc-vr-sistemi.local/"
       }
     ],
-    "updated_at": 1769763158500
+    "updated_at": 1792507382619
   },
   {
     "id": 1769783470063,
@@ -5614,22 +5614,22 @@
     "title": "b-tsp-srl",
     "items": [
       {
-        "id": 1791550347733,
-        "title": "Layout changes | TSP Srl - Pro Task",
-        "url": "https://worktask.bludelego.it/p/board/tsp-srl?task=layout-changes-4"
+        "id": 1792578194035,
+        "title": "Board | TSP Srl - ProTask",
+        "url": "https://worktask.bludelego.it/p/board/tsp-srl"
       },
       {
-        "id": 1791550347734,
+        "id": 1792578194036,
         "title": "TSP S.r.l. – Figma",
-        "url": "https://www.figma.com/design/2TKXhBk9OYMaGBH2B4pWOZ/TSP-S.r.l.?node-id=427-373&t=QEhdxuWbS9RwekrS-0"
+        "url": "https://www.figma.com/design/2TKXhBk9OYMaGBH2B4pWOZ/TSP-S.r.l.?node-id=188-598&t=mDTxg6wGL1Q1pCrs-0"
       },
       {
-        "id": 1791550347735,
+        "id": 1792578194037,
         "title": "TSP S.r.l. (Copy) – Figma",
-        "url": "https://www.figma.com/design/VYp8HUfxhrxXiCe1UszrHN/TSP-S.r.l.--Copy-?node-id=185-71&m=dev"
+        "url": "https://www.figma.com/design/3nyqR8SRPJmBVNVrHpGWlj/TSP-S.r.l.--Copy-?node-id=0-1&p=f&t=Ngiui0ErdSMX1rsg-0"
       }
     ],
-    "updated_at": 1791556691499
+    "updated_at": 1792578194035
   },
   {
     "id": 1788273652976,
@@ -5646,7 +5646,7 @@
         "url": "http://lc-tsp-srl.local/"
       }
     ],
-    "updated_at": 1791556720803
+    "updated_at": 1792587366525
   },
   {
     "id": 1788431062309,
@@ -5904,17 +5904,17 @@
         "url": "https://worktask.bludelego.it/p/board/lorenzo-valgimigli"
       },
       {
-        "id": 1792501375359,
+        "id": 1792588967876,
         "title": "Lorenzo Valgimigli – Figma",
-        "url": "https://www.figma.com/design/RjvQ8s2AFangPF1aSVuhET/Lorenzo-Valgimigli?node-id=0-1&p=f&t=IgYwtwaKy8JY26KF-0"
+        "url": "https://www.figma.com/design/RjvQ8s2AFangPF1aSVuhET/Lorenzo-Valgimigli?node-id=0-1&p=f&t=NuA7xq9nFm0CHFHQ-0"
       },
       {
-        "id": 1792501375360,
+        "id": 1792588967877,
         "title": "Lorenzo Valgimigli (Copy) – Figma",
-        "url": "https://www.figma.com/design/q1Y3wIwbuF9cx7b6RxFFPF/Lorenzo-Valgimigli--Copy-?node-id=0-1&p=f&m=dev"
+        "url": "https://www.figma.com/design/JD7XMHvrRehhyA5bLFE9Vc/Lorenzo-Valgimigli--Copy-?node-id=0-1&p=f&m=dev"
       }
     ],
-    "updated_at": 1792501375358
+    "updated_at": 1792588967876
   },
   {
     "id": 1792152152148,
@@ -5931,6 +5931,6 @@
         "url": "http://lc-lorenzo-valgimigli.local/"
       }
     ],
-    "updated_at": 1792478630654
+    "updated_at": 1792586064602
   }
 ]
