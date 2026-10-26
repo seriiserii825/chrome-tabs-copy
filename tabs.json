@@ -5949,5 +5949,27 @@
       }
     ],
     "updated_at": 1792997614436
+  },
+  {
+    "id": 1793002501043,
+    "title": "b-baldini-gomme",
+    "items": [
+      {
+        "id": 1793002501310,
+        "title": "Board | Baldini Gomme - ProTask",
+        "url": "https://worktask.bludelego.it/p/board/baldini-gomme"
+      },
+      {
+        "id": 1793002501248,
+        "title": "Baldini Gomme – Figma",
+        "url": "https://www.figma.com/design/ZMUsKUhpe70bIA8dnSexqk/Baldini-Gomme?node-id=0-1&p=f&t=EntmKTjKGT1HNFZP-0"
+      },
+      {
+        "id": 1793002501067,
+        "title": "Baldini Gomme (Copy) – Figma",
+        "url": "https://www.figma.com/design/XwmbalyGj7GfduaxUlDRHw/Baldini-Gomme--Copy-?node-id=0-1&p=f&m=dev"
+      }
+    ],
+    "updated_at": 1793002501043
   }
 ]
