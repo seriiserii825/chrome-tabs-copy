@@ -5926,7 +5926,7 @@
       }
     ],
     "title": "f-lorenzo-valgimigli",
-    "updated_at": 1792586064602
+    "updated_at": 1793371701601
   },
   {
     "id": 1792997614436,
@@ -6037,7 +6037,6 @@
   },
   {
     "id": 1793369712352,
-    "title": "f-ferramenta-ricco",
     "items": [
       {
         "id": 1793369712352,
@@ -6045,12 +6044,31 @@
         "url": "http://lc-ferramenta-ricco.local/wp-admin/"
       },
       {
+        "active": true,
         "id": 1793369712353,
         "title": "Ferramenta Riccò a Vignola | Chiavi, serrature, vernici e antinfortunistica",
-        "url": "http://lc-ferramenta-ricco.local/",
+        "url": "http://lc-ferramenta-ricco.local/"
+      }
+    ],
+    "title": "f-ferramenta-ricco",
+    "updated_at": 1793369712352
+  },
+  {
+    "id": 1793374223430,
+    "title": "f-mo-pro",
+    "items": [
+      {
+        "id": 1793374223430,
+        "title": "Bacheca ‹ Mopro — WordPress",
+        "url": "http://lc-mo-pro.local/wp-admin/"
+      },
+      {
+        "id": 1793374223431,
+        "title": "Mopro | Il tuo studio di progettazione a Modena",
+        "url": "http://lc-mo-pro.local/",
         "active": true
       }
     ],
-    "updated_at": 1793369712352
+    "updated_at": 1793374223430
   }
 ]
