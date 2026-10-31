@@ -5920,19 +5920,14 @@
         "url": "http://lc-lorenzo-valgimigli.local/wp-admin/#"
       },
       {
+        "active": true,
         "id": 1792152153116,
         "title": "lc-lorenzo-valgimigli.local",
         "url": "http://lc-lorenzo-valgimigli.local/"
-      },
-      {
-        "active": true,
-        "id": 1793431560058,
-        "title": "R4 Autofficina | Il partner a Mogliano Veneto per ogni tua esigenza di mobilità",
-        "url": "https://r4autofficina.com/"
       }
     ],
     "title": "f-lorenzo-valgimigli",
-    "updated_at": 1793431561811
+    "updated_at": 1793431624276
   },
   {
     "id": 1792997614436,
