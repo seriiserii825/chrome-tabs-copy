@@ -6138,5 +6138,28 @@
     ],
     "title": "f-distilleria-scaramellini",
     "updated_at": 1793693630051
+  },
+  {
+    "id": 1793693830321,
+    "items": [
+      {
+        "id": 1793693830321,
+        "title": "Figma link here | Distilleria Scaramellini - ProTask",
+        "url": "https://worktask.bludelego.it/p/board/distilleria-scaramellini?task=figma-link-here-copy-68baf0eb39cb7-copy-68baf19de8494-copy-68baf45e08bc8-copy-68cc07a0ce08f-copy-68cd35d29bbc6"
+      },
+      {
+        "id": 1793693830322,
+        "title": "Distilleria Scaramellini – Figma",
+        "url": "https://www.figma.com/design/u902vUqHhfGztJsiO8B8Om/Distilleria-Scaramellini?node-id=30-772&t=hiIPxPAF5jrX5jkr-0"
+      },
+      {
+        "active": true,
+        "id": 1793693830323,
+        "title": "Distilleria Scaramellini (Copy) – Figma",
+        "url": "https://www.figma.com/design/JdGfqqvg6TyHOO4Wrzg1jU/Distilleria-Scaramellini--Copy-?node-id=0-1&p=f&m=dev"
+      }
+    ],
+    "title": "b-distilleria-scaramellini",
+    "updated_at": 1793693830321
   }
 ]
