@@ -6120,5 +6120,23 @@
     ],
     "title": "update-sites",
     "updated_at": 1793691502020
+  },
+  {
+    "id": 1793693630051,
+    "items": [
+      {
+        "id": 1793693630051,
+        "title": "Dashboard ‹ lc-distilleria-scaramellini — WordPress",
+        "url": "http://lc-distilleria-scaramellini.local/wp-admin/"
+      },
+      {
+        "active": true,
+        "id": 1793693630052,
+        "title": "lc-distilleria-scaramellini",
+        "url": "http://lc-distilleria-scaramellini.local/"
+      }
+    ],
+    "title": "f-distilleria-scaramellini",
+    "updated_at": 1793693630051
   }
 ]
