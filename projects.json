@@ -3922,7 +3922,7 @@
       }
     ],
     "title": "f-elleffe",
-    "updated_at": 1765179633259
+    "updated_at": 1793700999255
   },
   {
     "id": 1762436120600,
@@ -3939,7 +3939,7 @@
       }
     ],
     "title": "b-elleffe",
-    "updated_at": 1765184388766
+    "updated_at": 1793700991375
   },
   {
     "id": 1763045168527,
@@ -4199,7 +4199,7 @@
       }
     ],
     "title": "f-autotrasporti-flli-soli",
-    "updated_at": 1768384007117
+    "updated_at": 1793711490910
   },
   {
     "id": 1766054699683,
@@ -4805,18 +4805,24 @@
     "id": 1774360110651,
     "items": [
       {
-        "id": 1774360110976,
-        "title": "Figma link here | T&P Service - Pro Task",
-        "url": "https://worktask.bludelego.it/p/board/t&amp;p-service?task=figma-link-here-copy-69b83c4f5143f"
+        "id": 1793782100065,
+        "title": "Board | T&P Service - ProTask",
+        "url": "https://worktask.bludelego.it/p/board/t&amp;p-service"
       },
       {
-        "id": 1774360111409,
+        "id": 1793782100066,
         "title": "T&P Service – Figma",
-        "url": "https://www.figma.com/design/mMvMV57rlJ6bho4uwZnrNG/T-P-Service?node-id=0-1&p=f&m=dev"
+        "url": "https://www.figma.com/design/mMvMV57rlJ6bho4uwZnrNG/T-P-Service?node-id=0-1&p=f&t=BCNGmtzIoW3lY0ZM-0"
+      },
+      {
+        "active": true,
+        "id": 1793782100067,
+        "title": "T&P Service (Copy) – Figma",
+        "url": "https://www.figma.com/design/h5EoxE2bSaiFVfnhjVNUux/T-P-Service--Copy-?node-id=469-65&m=dev"
       }
     ],
     "title": "b-tp-service",
-    "updated_at": 1774427661177
+    "updated_at": 1793782102281
   },
   {
     "id": 1774360768318,
@@ -5025,7 +5031,7 @@
       }
     ],
     "title": "f-gm-impianti-assistenza",
-    "updated_at": 1780913574363
+    "updated_at": 1793703482183
   },
   {
     "id": 1780483169186,
